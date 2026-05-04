@@ -1,0 +1,6 @@
+,Amount_log,AvgAmount_t,Freq_t,Lag_Time,Class
+Amount_log,0.0,1.0,0.0,0.0,1.0
+AvgAmount_t,1.0,0.0,1.0,1.0,0.0
+Freq_t,0.0,1.0,0.0,1.0,1.0
+Lag_Time,0.0,1.0,1.0,0.0,1.0
+Class,1.0,0.0,1.0,1.0,0.0
